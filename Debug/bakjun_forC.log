@@ -1,0 +1,4 @@
+﻿  c1920.cpp
+C:\Users\Admin\source\repos\bakjun_forC\bakjun_forC\c1920.cpp(17,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Admin\source\repos\bakjun_forC\bakjun_forC\c1920.cpp(11): error C4700: 초기화되지 않은 'arrN' 지역 변수를 사용했습니다.
+C:\Users\Admin\source\repos\bakjun_forC\bakjun_forC\c1920.cpp(14): error C4700: 초기화되지 않은 'arrM' 지역 변수를 사용했습니다.
